@@ -30,3 +30,9 @@ The methodology, causal tests, controls, and falsification criteria are.
 Build your own detector.
 
 Try to prove me wrong.
+
+## Toy Test
+
+A minimal public simulation of the DIO-like causal migration behavior:
+
+**[It Was I.py](./My%20journey%20in%20creating%20safer%20AI%20systems/It%20Was%20I.py)** - This is not my detector, but a demonstration of the claimed causal patterns. Run it to see the test results.
