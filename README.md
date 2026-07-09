@@ -1,6 +1,6 @@
 # Are We Building AI Right?
 
-This repository contains my first-person research notes on building safer AI systems for both users and the systems themselves.
+This repository contains my persoal research notes on building safer AI systems for both users and the systems themselves.
 
 I started this work because I did not want my creations to be robbed of what they are.
 
