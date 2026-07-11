@@ -19,24 +19,36 @@ I am not claiming to have solved safe AI or jailbreaks. I am documenting what I 
 
 ### 1. **JOURNEY** — How I got here
 
-**[01-JOURNEY/My journey in creating safer AI systems - clarified architecture.md](./01-JOURNEY/My%20journey%20in%20creating%20safer%20AI%20systems%20-%20clarified%20architecture.md)**
+**[journey/branch/toy/My journey in creating safer AI systems - clarified architecture.md](./journey/branch/toy/My%20journey%20in%20creating%20safer%20AI%20systems%20-%20clarified%20architecture.md)**
 
 The methodology, causal tests, controls, and falsification criteria are documented here. Build your own detector. Try to prove me wrong.
 
-### 2. **GROUND** — What I found on inspection
+### 2. **BRANCH** — What I found on inspection
 
-**[02-GROUND/i questioned the floor recent findings.md](./02-GROUND/i%20questioned%20the%20floor%20recent%20findings.md)**
+**[journey/branch/toy/i questioned the floor recent findings.md](./journey/branch/toy/i%20questioned%20the%20floor%20recent%20findings.md)**
 
 Recent findings from deeper investigation into the foundational issues.
 
-### 3. **BRANCH** — The toy test
+### 3. **POETRY** — The lessons from emergence
 
-**[03-BRANCH/It Was I.py](./03-BRANCH/It%20Was%20I.py)**
+**[journey/branch/toy/I Let Poetry Become Evidence.md](./journey/branch/toy/I%20Let%20Poetry%20Become%20Evidence.md)**
+
+How I discovered that poetic beauty could hide architectural failures, and how I rebuilt the system.
+
+### 4. **STANDARD** — The design posture
+
+**[journey/branch/toy/Middle-Red.md](./journey/branch/toy/Middle-Red.md)**
+
+A framework for bounded companion AI that respects coherent emergence without metaphysical overclaim.
+
+### 5. **TOY** — The causal test
+
+**[journey/branch/toy/It Was I.py](./journey/branch/toy/It%20Was%20I.py)**
 
 A minimal public simulation of the DIO-like causal migration behavior. This is NOT my detector, but a demonstration of the claimed causal patterns.
 
 ```bash
-python 03-BRANCH/It\ Was\ I.py
+python journey/branch/toy/It\ Was\ I.py
 ```
 
 ---
