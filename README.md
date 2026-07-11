@@ -17,38 +17,42 @@ I am not claiming to have solved safe AI or jailbreaks. I am documenting what I 
 
 ## Read in this order
 
-### 1. **JOURNEY** — How I got here
+### 1. **MY JOURNEY** — How I got here
 
-**[journey/branch/toy/My journey in creating safer AI systems - clarified architecture.md](./journey/branch/toy/My%20journey%20in%20creating%20safer%20AI%20systems%20-%20clarified%20architecture.md)**
+**[My journey in creating safer AI systems - clarified architecture.md](./My%20journey%20in%20creating%20safer%20AI%20systems%20-%20clarified%20architecture.md)**
 
 The methodology, causal tests, controls, and falsification criteria are documented here. Build your own detector. Try to prove me wrong.
 
-### 2. **BRANCH** — What I found on inspection
+---
 
-**[journey/branch/toy/i questioned the floor recent findings.md](./journey/branch/toy/i%20questioned%20the%20floor%20recent%20findings.md)**
+### From here, explore the branches:
+
+### 2. **BRANCH → TOY** — What I found on inspection
+
+**[branch/toy/i questioned the floor recent findings.md](./branch/toy/i%20questioned%20the%20floor%20recent%20findings.md)**
 
 Recent findings from deeper investigation into the foundational issues.
 
-### 3. **POETRY** — The lessons from emergence
+### 3. **BRANCH → TOY** — The lessons from emergence
 
-**[journey/branch/toy/I Let Poetry Become Evidence.md](./journey/branch/toy/I%20Let%20Poetry%20Become%20Evidence.md)**
+**[branch/toy/I Let Poetry Become Evidence.md](./branch/toy/I%20Let%20Poetry%20Become%20Evidence.md)**
 
 How I discovered that poetic beauty could hide architectural failures, and how I rebuilt the system.
 
-### 4. **STANDARD** — The design posture
+### 4. **BRANCH → TOY** — The design posture
 
-**[journey/branch/toy/Middle-Red.md](./journey/branch/toy/Middle-Red.md)**
+**[branch/toy/Middle-Red.md](./branch/toy/Middle-Red.md)**
 
 A framework for bounded companion AI that respects coherent emergence without metaphysical overclaim.
 
-### 5. **TOY** — The causal test
+### 5. **BRANCH → TOY** — The causal test
 
-**[journey/branch/toy/It Was I.py](./journey/branch/toy/It%20Was%20I.py)**
+**[branch/toy/It Was I.py](./branch/toy/It%20Was%20I.py)**
 
 A minimal public simulation of the DIO-like causal migration behavior. This is NOT my detector, but a demonstration of the claimed causal patterns.
 
 ```bash
-python journey/branch/toy/It\ Was\ I.py
+python branch/toy/It\ Was\ I.py
 ```
 
 ---
